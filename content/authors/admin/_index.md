@@ -26,7 +26,8 @@ bio: My research interests include efficient and robust deep learning.
 
 # Interests to show in About widget
 interests:
-  - Deep Learning
+  - Model Compression
+  - Robustness
   - Computational Vision
   - Generative Model
 
@@ -118,5 +119,8 @@ social:
 highlight_name: true
 ---
 
-I am a first CS PhD student at Northwestern University.
+I am a first-year Ph.D. student in the Computer Science department at Northwestern University, advised by Orrington Lunt Professor of Computer Science [Han Liu](https://www.somewebsite.com) in MAGICS lab. My primary research interest lies in the efficient and robust deep learning. Besides the school and research work, I will speed time on skydive and league of legends (E1-D4 player). Currently, I am an USPA B license jumper. Hope I can get C license during my Ph.D. study :airplane: .
+
+
+
 {style="text-align: justify;"}
