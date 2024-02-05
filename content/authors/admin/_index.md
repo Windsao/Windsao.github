@@ -119,7 +119,7 @@ social:
 highlight_name: true
 ---
 
-I am a first-year Ph.D. student in the Computer Science department at Northwestern University, advised by Orrington Lunt Professor of Computer Science [Han Liu](https://www.somewebsite.com) in MAGICS lab. My primary research interest lies in the efficient and robust deep learning. Besides the school and research work, I will speed time on skydive and league of legends (E1-D4 player). Currently, I am an USPA B license jumper. Hope I can get C license during my Ph.D. study :airplane: .
+I am a first-year Ph.D. student in the Computer Science department at Northwestern University, advised by Orrington Lunt Professor of Computer Science [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) in MAGICS lab. My primary research interest lies in the efficient and robust deep learning and generative AI. Besides the school and research work, I will speed time on skydive and league of legends. Currently, I am an USPA B license skydiver :airplane:.
 
 
 
